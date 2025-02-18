@@ -43,5 +43,5 @@ let findOptimalPortfolio numIterations numAssets =
 
 let optimalWeights, minRisk = findOptimalPortfolio 1000 historicalMatrix.ColumnCount
 
-printfn "Оптимальные веса портфеля: %A" optimalWeights
-printfn "Минимальный риск: %f" minRisk
+printfn "Optymalne wagi portfela: %A" optimalWeights
+printfn "Minimalne ryzyko: %f" minRisk
