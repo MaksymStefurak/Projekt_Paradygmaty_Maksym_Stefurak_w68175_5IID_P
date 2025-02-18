@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iw8e0BP7aMY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Робочий стіл\\Projekt\\PortfolioOptimization\\PortfolioOptimization.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
